@@ -1,2 +1,2 @@
 # Machine-DeepLearning
-Deep Learning codes in pyhon using Tensorflow and Pytorch
+Deep Learning codes in python using Tensorflow and Pytorch
